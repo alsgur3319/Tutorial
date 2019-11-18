@@ -7,6 +7,7 @@ class My_Java
 		int sum = a + b;
 		int sub = a - b;
 		int mul = a * b;
-		System.out.println("Github 연습 "+ "\n" + sum + sub + mul);
+		int div = a / b;
+		System.out.println("Github 연습 "+ "\n" + sum + sub + mul + div);
 	}
 }
